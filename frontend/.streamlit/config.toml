@@ -1,0 +1,10 @@
+[server]
+port = 8501
+headless = true
+
+[browser]
+# No enviar estadísticas de uso a Streamlit.
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

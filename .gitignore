@@ -1,0 +1,8 @@
+# Entorno y caches
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Secretos y configuracion local
+.env
+ngrok.yml
